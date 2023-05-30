@@ -4,4 +4,4 @@ If "Display as Sierpinski's triangle" is toggled, odd numbers will be displayed 
 
 The program was written in Haskell, however, a haskell compiler does not need to be installed to run the program. To run the program, simply download and run the executable file "main.exe". Source code can be found in "main.hs".
 
-Note: May not work in Windows 10 and below.
+Note: May not work as intended in Windows 10 and below.
